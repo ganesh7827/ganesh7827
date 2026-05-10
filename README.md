@@ -34,7 +34,7 @@ That range — from law enforcement to fintech — shapes how I think about secu
 
 | Repo | What It Is |
 |---|---|
-| 🔐 [ai-agent-security](https://github.com/) | Research & resources on securing AI agents — threat scenarios, tool landscape, detection gaps |
+| 🔐 [ai-agent-security](https://github.com/ganesh7827/AI-agent-security) | Research & resources on securing AI agents — threat scenarios, tool landscape, detection gaps |
 
 ---
 
